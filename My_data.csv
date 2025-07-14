@@ -1,0 +1,11 @@
+OrderID,Category,Sales,Profit
+1,Technology,1200,300
+2,Office Supplies,200,50
+3,Furniture,850,150
+4,Technology,1400,400
+5,Furniture,300,30
+6,Office Supplies,,20
+7,Furniture,700,
+8,Technology,1500,450
+9,Office Supplies,100,10
+10,Furniture,650,120
